@@ -1,0 +1,8 @@
+## Interface: 11502
+## Title: ActionBar Profiles
+## Notes: A simple addon to save and load action bar profiles.
+## Author: Junts
+## Version: 0.0.1
+## SavedVariables: ActionBarProfilesDB
+
+ActionBarProfiles.lua
